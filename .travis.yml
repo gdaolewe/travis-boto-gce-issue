@@ -10,3 +10,4 @@ install:
 - "pip install -r requirements.txt"
 script:
 - make travis
+group: deprecated-2017Q2
